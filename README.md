@@ -1,6 +1,12 @@
 # skins
 [sacril](https://osu.ppy.sh/users/12563874) skins (wip)
 
+[dt](https://drive.google.com/file/d/127-2u3xY9IMwqqWHzOfxRIV-ZgFJ5VNL/view?usp=sharing)
+![osu! Screenshot 2023 12 11 - 01 12 07 72](https://github.com/sacril/skins/assets/141312980/34800b90-fc71-4782-8dc4-08b1a2516dbc)
+
+
+
+
 [daanit]()
 ![osu! Screenshot 2023 12 01 - 18 17 38 89](https://github.com/sacril/skins/assets/141312980/e9624abb-f548-4dba-b615-b6c7dd0ea95d)
 
