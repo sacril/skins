@@ -2,9 +2,7 @@
 [sacril](https://osu.ppy.sh/users/12563874) skins (wip)
 
 [dt](https://drive.google.com/file/d/1KlAyDCTjq0GOq2uK6lpZ0czztAjlNuQN/view?usp=sharing)
-![osu! Screenshot 2023 12 11 - 01 12 07 72](https://github.com/sacril/skins/assets/141312980/34800b90-fc71-4782-8dc4-08b1a2516dbc)
-
-
+![osu! Screenshot 2023 12 11 - 01 36 51 90](https://github.com/sacril/skins/assets/141312980/1e6c7294-43ff-4886-9a21-7267b97eedb1)
 
 
 [daanit](https://drive.google.com/file/d/10IB5vSYetYHvvYV6AihB3lcPrq7DbJt-/view?usp=sharing)
