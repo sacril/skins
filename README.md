@@ -1,9 +1,14 @@
 # skins
-[sacril](https://osu.ppy.sh/users/12563874) skins (wip)
+[sacril](https://osu.ppy.sh/users/12563874) skins 
 
-[dt](https://drive.google.com/file/d/1KlAyDCTjq0GOq2uK6lpZ0czztAjlNuQN/view?usp=sharing)
-![osu! Screenshot 2023 12 11 - 01 36 51 90](https://github.com/sacril/skins/assets/141312980/1e6c7294-43ff-4886-9a21-7267b97eedb1)
+[dt](https://dthd.s-ul.eu/m1tYle0Q)
+![osu! Screenshot 2024 01 09 - 01 43 48 83](https://github.com/sacril/skins/assets/141312980/af32773b-f19d-47f1-a2ed-11cb250021df)
 
+[dt tko](https://dthd.s-ul.eu/vCfipDo5)
+![osu! Screenshot 2024 01 09 - 01 47 40 92](https://github.com/sacril/skins/assets/141312980/bdc8f8a0-8629-4009-9b54-c84651e99efb)
+
+[dt blue](https://dthd.s-ul.eu/LN1F56wr)
+![osu! Screenshot 2024 01 09 - 01 51 35 62](https://github.com/sacril/skins/assets/141312980/aef58221-75e7-4a67-8e1c-0fa9681a4002)
 
 [daanit](https://drive.google.com/file/d/10IB5vSYetYHvvYV6AihB3lcPrq7DbJt-/view?usp=sharing)
 ![osu! Screenshot 2023 12 01 - 18 17 38 89](https://github.com/sacril/skins/assets/141312980/e9624abb-f548-4dba-b615-b6c7dd0ea95d)
