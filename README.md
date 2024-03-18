@@ -10,6 +10,9 @@
 [dt blue](https://dthd.s-ul.eu/LN1F56wr)
 ![osu! Screenshot 2024 01 09 - 01 51 35 62](https://github.com/sacril/skins/assets/141312980/aef58221-75e7-4a67-8e1c-0fa9681a4002)
 
+[intergalactic](https://dthd.s-ul.eu/peY8IrWY)
+![osu! Screenshot 2024 03 18 - 02 45 22 53](https://github.com/sacril/skins/assets/141312980/26890071-98e8-4d48-a2d5-86875dc3a642)
+
 [daanit](https://drive.google.com/file/d/10IB5vSYetYHvvYV6AihB3lcPrq7DbJt-/view?usp=sharing)
 ![osu! Screenshot 2023 12 01 - 18 17 38 89](https://github.com/sacril/skins/assets/141312980/e9624abb-f548-4dba-b615-b6c7dd0ea95d)
 
