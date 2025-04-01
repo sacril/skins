@@ -19,6 +19,7 @@ aerial dt
 
 credit 
 art/ui in aerial made with [zekita/ano](https://osu.ppy.sh/users/22285296) and [erick](https://osu.ppy.sh/users/6235225) 
+![osu! Screenshot 2025 03 31 - 23 47 42 24](https://github.com/user-attachments/assets/7c562956-4d32-42f7-9aba-ec0b5462198c)
 
 
 
