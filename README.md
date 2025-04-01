@@ -1,6 +1,6 @@
 sacril skins
 
-altruism
+altruism edit
 [![osu! Screenshot 2025 03 31 - 22 45 09 69](https://github.com/user-attachments/assets/9eb02507-e8a7-46f4-aceb-c84fec18bea2)](https://dthd.s-ul.eu/pe3zMraG)
 
 garden
@@ -13,7 +13,11 @@ aerial
 [![osu! Screenshot 2025 03 31 - 23 03 39 81](https://github.com/user-attachments/assets/1b9cd4f0-06c2-43f5-ae5d-4e0095a6b21b)](https://dthd.s-ul.eu/oDd3yxdL)
 
 aerial dt
-[![osu! Screenshot 2025 03 31 - 23 28 35 13](https://github.com/user-attachments/assets/8e4e60bb-dbfe-419c-8183-e104a80d85e2)![osu! Screenshot 2025 03 31 - 23 47 42 24](https://github.com/user-attachments/assets/02d606c6-f76b-409a-975e-bb6c4f302e7d)
-](https://dthd.s-ul.eu/XLxoNQpS)
+[![osu! Screenshot 2025 03 31 - 23 28 35 13](https://github.com/user-attachments/assets/8e4e60bb-dbfe-419c-8183-e104a80d85e2)](https://dthd.s-ul.eu/XLxoNQpS)
+
+credit 
+art/ui in aerial made with [zekita/ano](https://osu.ppy.sh/users/22285296) and [erick](https://osu.ppy.sh/users/6235225) 
+
+
 
 
